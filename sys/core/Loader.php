@@ -1,13 +1,15 @@
 <?php
-
 /**
  * Created by PhpStorm.
  * User: haxianhe
  * Date: 2018/9/27
  * Time: 下午12:50
  */
-namespace core;
+namespace core;     //定义命名空间
 
+/**
+ * 自动加载类
+ */
 class Loader
 {
     /**
