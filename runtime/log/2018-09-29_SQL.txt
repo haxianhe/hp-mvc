@@ -1,0 +1,5 @@
+save error
+INSERT INTO `hp_user` (name,0) VALUES ('hello','Array')
+客户IP:::1
+时间 :2018-09-29 15:53:41
+

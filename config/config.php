@@ -8,7 +8,7 @@ return [
     'db_host' => '127.0.0.1',
     'db_user' => 'root',
     'db_pwd' => '',
-    'db_name' => 'sys',
+    'db_name' => 'hp',
     'db_table_prefix' => 'hp_',    //数据表前缀
     'db_charset' => 'utf8',
 
